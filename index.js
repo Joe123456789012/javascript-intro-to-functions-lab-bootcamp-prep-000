@@ -19,6 +19,6 @@ function sayHiToGrandma(string){
     return "YES INDEED!"
   }
   
-  if (string=== 'I love you, too'){
-    retun ""
+  if (string=== 'I love you, grandma'){
+    retun 'I love you, too'
   }
