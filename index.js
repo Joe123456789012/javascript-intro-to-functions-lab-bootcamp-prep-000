@@ -12,7 +12,7 @@ function logWhisper (string){
 }
 function sayHiToGrandma(string){
   if (string.toLowerCase()===string){
-  retun "I can't hear You"
+  retun 'I can't hear You'
   }
   
   if (string.toUpperCase ()===string){
